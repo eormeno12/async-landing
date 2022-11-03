@@ -1,0 +1,28 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eormeno12/async-landing.git"
+  },
+  "keywords": [
+    "async-await",
+    "JavaScript",
+    "node"
+  ],
+  "author": "Ernesto Ormeño <eormeno12@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eormeno12/async-landing/issues"
+  },
+  "homepage": "https://github.com/eormeno12/async-landing#readme",
+  "type": "module",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
